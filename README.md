@@ -1,5 +1,4 @@
 # Owner of the Automation Framework
-@Author jatin@testautomationacademy.in
 
 ## Installation
 ```bash
@@ -28,7 +27,6 @@ All testcases must extends Generic Utils to use the features
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Liked the Framework? 
-Connect to me on https://www.linkedin.com/in/jatin-sharma-bb365153/ 
 Planning for a job change? 
 Enroll for a 3 months course live with me! and take learn the top automation testing and devops skills live with me!
 
